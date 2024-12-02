@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EMHVnBXqb6UVlHHCTtazWI5HHcr8cWuoLK/AoBZkf/g=",
+  "Hash": "L4wqHNVX4WFa6EyVMWTfo+Prq9N49LDcyp/t5Aci+OE=",
   "Source": "PopCartHome",
   "BasePath": "_content/PopCartHome",
   "Mode": "Default",
@@ -1781,6 +1781,27 @@
       "OriginalItemSpec": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
+      "Identity": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/nayna37xnz-f9001fyo0a.gz",
+      "SourceId": "PopCartHome",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/PopCartHome",
+      "RelativePath": "assets/img/play-store#[.{fingerprint=f9001fyo0a}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/play-store.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "h4qutg0zrg",
+      "Integrity": "P+NKHxWkX6DZC+q4Pu1/J5hmhj9x3mzx5eLaLHYqW5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/play-store.svg"
+    },
+    {
       "Identity": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/nfm6kt7czx-87fc7y1x7t.gz",
       "SourceId": "PopCartHome",
       "SourceType": "Discovered",
@@ -1989,6 +2010,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Identity": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/pgq1r9uuo7-ewxbehqgso.gz",
+      "SourceId": "PopCartHome",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/PopCartHome",
+      "RelativePath": "assets/img/AppSore#[.{fingerprint=ewxbehqgso}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/AppSore.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "j2klcjz0xp",
+      "Integrity": "Jb9OqNw1gKG5mOhBTU79jshsoxCQ7oTa4z8YyZeLqAQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/AppSore.svg"
     },
     {
       "Identity": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/px3rxxezxr-c2oey78nd0.gz",
@@ -2873,6 +2915,27 @@
       "OriginalItemSpec": "wwwroot/assets/img/apple-touch-icon.png"
     },
     {
+      "Identity": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/AppSore.svg",
+      "SourceId": "PopCartHome",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/",
+      "BasePath": "_content/PopCartHome",
+      "RelativePath": "assets/img/AppSore#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ewxbehqgso",
+      "Integrity": "XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/AppSore.svg"
+    },
+    {
       "Identity": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/details-1.png",
       "SourceId": "PopCartHome",
       "SourceType": "Discovered",
@@ -3270,6 +3333,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/img/logo.png"
+    },
+    {
+      "Identity": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/play-store.svg",
+      "SourceId": "PopCartHome",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/",
+      "BasePath": "_content/PopCartHome",
+      "RelativePath": "assets/img/play-store#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9001fyo0a",
+      "Integrity": "U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/assets/img/play-store.svg"
     },
     {
       "Identity": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/Popcart_Logo.png",
@@ -6657,6 +6741,304 @@
       ]
     },
     {
+      "Route": "assets/img/AppSore.ewxbehqgso.svg",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/pgq1r9uuo7-ewxbehqgso.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000198688655"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5032"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jb9OqNw1gKG5mOhBTU79jshsoxCQ7oTa4z8YyZeLqAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ewxbehqgso"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/AppSore.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/AppSore.ewxbehqgso.svg",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/AppSore.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13371"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ewxbehqgso"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/AppSore.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/AppSore.ewxbehqgso.svg.gz",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/pgq1r9uuo7-ewxbehqgso.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jb9OqNw1gKG5mOhBTU79jshsoxCQ7oTa4z8YyZeLqAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ewxbehqgso"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/AppSore.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jb9OqNw1gKG5mOhBTU79jshsoxCQ7oTa4z8YyZeLqAQ="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/AppSore.svg",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/pgq1r9uuo7-ewxbehqgso.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000198688655"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5032"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jb9OqNw1gKG5mOhBTU79jshsoxCQ7oTa4z8YyZeLqAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/AppSore.svg",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/AppSore.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13371"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/AppSore.svg.gz",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/pgq1r9uuo7-ewxbehqgso.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jb9OqNw1gKG5mOhBTU79jshsoxCQ7oTa4z8YyZeLqAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:05:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jb9OqNw1gKG5mOhBTU79jshsoxCQ7oTa4z8YyZeLqAQ="
+        }
+      ]
+    },
+    {
       "Route": "assets/img/details-1.png",
       "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/details-1.png",
       "Selectors": [],
@@ -8211,6 +8593,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-C0/RV6n1lPnA8R2o5RWGP+93rlNIOKhNV4soqeWHh7g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/play-store.f9001fyo0a.svg",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/nayna37xnz-f9001fyo0a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000309214595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3233"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P+NKHxWkX6DZC+q4Pu1/J5hmhj9x3mzx5eLaLHYqW5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:06:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9001fyo0a"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/play-store.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/play-store.f9001fyo0a.svg",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/play-store.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:06:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9001fyo0a"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/play-store.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/play-store.f9001fyo0a.svg.gz",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/nayna37xnz-f9001fyo0a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P+NKHxWkX6DZC+q4Pu1/J5hmhj9x3mzx5eLaLHYqW5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:06:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9001fyo0a"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/play-store.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P+NKHxWkX6DZC+q4Pu1/J5hmhj9x3mzx5eLaLHYqW5Q="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/play-store.svg",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/nayna37xnz-f9001fyo0a.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000309214595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3233"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P+NKHxWkX6DZC+q4Pu1/J5hmhj9x3mzx5eLaLHYqW5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:06:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/play-store.svg",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/play-store.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:06:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/play-store.svg.gz",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/nayna37xnz-f9001fyo0a.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P+NKHxWkX6DZC+q4Pu1/J5hmhj9x3mzx5eLaLHYqW5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:06:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P+NKHxWkX6DZC+q4Pu1/J5hmhj9x3mzx5eLaLHYqW5Q="
         }
       ]
     },

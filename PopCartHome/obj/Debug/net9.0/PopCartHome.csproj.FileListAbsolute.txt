@@ -164,3 +164,5 @@
 /Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/9o3vxyio96-vjom3bl46k.gz
 /Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/0ujtywvxsu-d4s2fayn1l.gz
 /Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-b15u6228an.gz
+/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/pgq1r9uuo7-ewxbehqgso.gz
+/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/nayna37xnz-f9001fyo0a.gz

@@ -599,6 +599,304 @@
       ]
     },
     {
+      "Route": "assets/img/AppSore.ewxbehqgso.svg",
+      "AssetFile": "assets/img/AppSore.svg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000198688655"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jb9OqNw1gKG5mOhBTU79jshsoxCQ7oTa4z8YyZeLqAQ=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:05:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ewxbehqgso"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/AppSore.svg"
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/AppSore.ewxbehqgso.svg",
+      "AssetFile": "assets/img/AppSore.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13371"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:05:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ewxbehqgso"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/AppSore.svg"
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/AppSore.ewxbehqgso.svg.gz",
+      "AssetFile": "assets/img/AppSore.svg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jb9OqNw1gKG5mOhBTU79jshsoxCQ7oTa4z8YyZeLqAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:05:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ewxbehqgso"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jb9OqNw1gKG5mOhBTU79jshsoxCQ7oTa4z8YyZeLqAQ="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/AppSore.svg.gz"
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/AppSore.svg",
+      "AssetFile": "assets/img/AppSore.svg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000198688655"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jb9OqNw1gKG5mOhBTU79jshsoxCQ7oTa4z8YyZeLqAQ=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:05:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/AppSore.svg",
+      "AssetFile": "assets/img/AppSore.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13371"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:05:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XtJrn/erDqlznW/H7TM0PHf4kF9qPcLSUobAxLWLGss="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/AppSore.svg.gz",
+      "AssetFile": "assets/img/AppSore.svg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jb9OqNw1gKG5mOhBTU79jshsoxCQ7oTa4z8YyZeLqAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:05:57 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jb9OqNw1gKG5mOhBTU79jshsoxCQ7oTa4z8YyZeLqAQ="
+        }
+      ]
+    },
+    {
       "Route": "assets/img/Popcart_Logo.6mewr4btnd.png",
       "AssetFile": "assets/img/Popcart_Logo.png",
       "Selectors": [],
@@ -2317,6 +2615,304 @@
         {
           "Name": "integrity",
           "Value": "sha256-C0/RV6n1lPnA8R2o5RWGP+93rlNIOKhNV4soqeWHh7g="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/play-store.f9001fyo0a.svg",
+      "AssetFile": "assets/img/play-store.svg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000309214595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P+NKHxWkX6DZC+q4Pu1/J5hmhj9x3mzx5eLaLHYqW5Q=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:06:58 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9001fyo0a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/play-store.svg"
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/play-store.f9001fyo0a.svg",
+      "AssetFile": "assets/img/play-store.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:06:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9001fyo0a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/play-store.svg"
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/play-store.f9001fyo0a.svg.gz",
+      "AssetFile": "assets/img/play-store.svg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P+NKHxWkX6DZC+q4Pu1/J5hmhj9x3mzx5eLaLHYqW5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:06:58 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9001fyo0a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P+NKHxWkX6DZC+q4Pu1/J5hmhj9x3mzx5eLaLHYqW5Q="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/play-store.svg.gz"
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/play-store.svg",
+      "AssetFile": "assets/img/play-store.svg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000309214595"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P+NKHxWkX6DZC+q4Pu1/J5hmhj9x3mzx5eLaLHYqW5Q=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:06:58 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/play-store.svg",
+      "AssetFile": "assets/img/play-store.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9619"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:06:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U15nkbB7zLMwsfnTcSNDQVcA+DnOiVdJkJ87LHVDB/4="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/play-store.svg.gz",
+      "AssetFile": "assets/img/play-store.svg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3233"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P+NKHxWkX6DZC+q4Pu1/J5hmhj9x3mzx5eLaLHYqW5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 02 Dec 2024 22:06:58 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P+NKHxWkX6DZC+q4Pu1/J5hmhj9x3mzx5eLaLHYqW5Q="
         }
       ]
     },
