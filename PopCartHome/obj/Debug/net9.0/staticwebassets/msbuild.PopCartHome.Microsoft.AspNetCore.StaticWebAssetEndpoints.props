@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/css/main.b15u6228an.css">
+    <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/css/main.58myzkybw0.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\main.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b15u6228an"},{"Name":"integrity","Value":"sha256-AV1FUEx34VnzvR5FSKQGkwfMMi7g63T47GnhQWaYYXY="},{"Name":"label","Value":"_content/PopCartHome/assets/css/main.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37150"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022AV1FUEx34VnzvR5FSKQGkwfMMi7g63T47GnhQWaYYXY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 21:31:12 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"58myzkybw0"},{"Name":"integrity","Value":"sha256-BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv\u002BV0OqNVCr3E="},{"Name":"label","Value":"_content/PopCartHome/assets/css/main.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv\u002BV0OqNVCr3E=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 23:07:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/css/main.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\main.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AV1FUEx34VnzvR5FSKQGkwfMMi7g63T47GnhQWaYYXY="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"37150"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022AV1FUEx34VnzvR5FSKQGkwfMMi7g63T47GnhQWaYYXY=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 21:31:12 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv\u002BV0OqNVCr3E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"37131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv\u002BV0OqNVCr3E=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 23:07:53 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/img/apple-touch-icon.aqslpqv1z9.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\apple-touch-icon.png'))</AssetFile>

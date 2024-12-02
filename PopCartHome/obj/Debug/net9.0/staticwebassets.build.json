@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L4wqHNVX4WFa6EyVMWTfo+Prq9N49LDcyp/t5Aci+OE=",
+  "Hash": "hnEMzfVgcmhXFvgvg+tTixaGkzEDL0ANz+8/itEn7Jk=",
   "Source": "PopCartHome",
   "BasePath": "_content/PopCartHome",
   "Mode": "Default",
@@ -668,12 +668,12 @@
       "OriginalItemSpec": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-b15u6228an.gz",
+      "Identity": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-58myzkybw0.gz",
       "SourceId": "PopCartHome",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/PopCartHome",
-      "RelativePath": "assets/css/main#[.{fingerprint=b15u6228an}]?.css.gz",
+      "RelativePath": "assets/css/main#[.{fingerprint=58myzkybw0}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -682,8 +682,8 @@
       "RelatedAsset": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/css/main.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "e9upgu3ncd",
-      "Integrity": "cp2AmasVO000zNkw/fOD6cH6shdQw3gdQCoYCvlW1CU=",
+      "Fingerprint": "3aw58e6hgr",
+      "Integrity": "q9L+ocei02lajrXShAqU4MusImf2fYBe6e0esQ3Lgyc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/css/main.css"
@@ -2887,8 +2887,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b15u6228an",
-      "Integrity": "AV1FUEx34VnzvR5FSKQGkwfMMi7g63T47GnhQWaYYXY=",
+      "Fingerprint": "58myzkybw0",
+      "Integrity": "BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv+V0OqNVCr3E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/css/main.css"
@@ -6361,13 +6361,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "assets/css/main.b15u6228an.css",
-      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-b15u6228an.gz",
+      "Route": "assets/css/main.58myzkybw0.css",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-58myzkybw0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000154083205"
+          "Quality": "0.000154059467"
         }
       ],
       "ResponseHeaders": [
@@ -6377,15 +6377,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6489"
+          "Value": "6490"
         },
         {
           "Name": "ETag",
-          "Value": "\"cp2AmasVO000zNkw/fOD6cH6shdQw3gdQCoYCvlW1CU=\""
+          "Value": "\"q9L+ocei02lajrXShAqU4MusImf2fYBe6e0esQ3Lgyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 21:31:12 GMT"
+          "Value": "Mon, 02 Dec 2024 23:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6405,13 +6405,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"AV1FUEx34VnzvR5FSKQGkwfMMi7g63T47GnhQWaYYXY=\""
+          "Value": "W/\"BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv+V0OqNVCr3E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b15u6228an"
+          "Value": "58myzkybw0"
         },
         {
           "Name": "label",
@@ -6419,12 +6419,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AV1FUEx34VnzvR5FSKQGkwfMMi7g63T47GnhQWaYYXY="
+          "Value": "sha256-BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv+V0OqNVCr3E="
         }
       ]
     },
     {
-      "Route": "assets/css/main.b15u6228an.css",
+      "Route": "assets/css/main.58myzkybw0.css",
       "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/css/main.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6434,7 +6434,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37150"
+          "Value": "37131"
         },
         {
           "Name": "Content-Type",
@@ -6442,11 +6442,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AV1FUEx34VnzvR5FSKQGkwfMMi7g63T47GnhQWaYYXY=\""
+          "Value": "\"BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv+V0OqNVCr3E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 21:31:12 GMT"
+          "Value": "Mon, 02 Dec 2024 23:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6456,7 +6456,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b15u6228an"
+          "Value": "58myzkybw0"
         },
         {
           "Name": "label",
@@ -6464,13 +6464,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-AV1FUEx34VnzvR5FSKQGkwfMMi7g63T47GnhQWaYYXY="
+          "Value": "sha256-BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv+V0OqNVCr3E="
         }
       ]
     },
     {
-      "Route": "assets/css/main.b15u6228an.css.gz",
-      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-b15u6228an.gz",
+      "Route": "assets/css/main.58myzkybw0.css.gz",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-58myzkybw0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6479,7 +6479,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6489"
+          "Value": "6490"
         },
         {
           "Name": "Content-Type",
@@ -6487,11 +6487,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cp2AmasVO000zNkw/fOD6cH6shdQw3gdQCoYCvlW1CU=\""
+          "Value": "\"q9L+ocei02lajrXShAqU4MusImf2fYBe6e0esQ3Lgyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 21:31:12 GMT"
+          "Value": "Mon, 02 Dec 2024 23:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6509,7 +6509,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b15u6228an"
+          "Value": "58myzkybw0"
         },
         {
           "Name": "label",
@@ -6517,18 +6517,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cp2AmasVO000zNkw/fOD6cH6shdQw3gdQCoYCvlW1CU="
+          "Value": "sha256-q9L+ocei02lajrXShAqU4MusImf2fYBe6e0esQ3Lgyc="
         }
       ]
     },
     {
       "Route": "assets/css/main.css",
-      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-b15u6228an.gz",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-58myzkybw0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000154083205"
+          "Quality": "0.000154059467"
         }
       ],
       "ResponseHeaders": [
@@ -6538,15 +6538,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6489"
+          "Value": "6490"
         },
         {
           "Name": "ETag",
-          "Value": "\"cp2AmasVO000zNkw/fOD6cH6shdQw3gdQCoYCvlW1CU=\""
+          "Value": "\"q9L+ocei02lajrXShAqU4MusImf2fYBe6e0esQ3Lgyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 21:31:12 GMT"
+          "Value": "Mon, 02 Dec 2024 23:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6566,13 +6566,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"AV1FUEx34VnzvR5FSKQGkwfMMi7g63T47GnhQWaYYXY=\""
+          "Value": "W/\"BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv+V0OqNVCr3E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AV1FUEx34VnzvR5FSKQGkwfMMi7g63T47GnhQWaYYXY="
+          "Value": "sha256-BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv+V0OqNVCr3E="
         }
       ]
     },
@@ -6587,7 +6587,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "37150"
+          "Value": "37131"
         },
         {
           "Name": "Content-Type",
@@ -6595,11 +6595,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AV1FUEx34VnzvR5FSKQGkwfMMi7g63T47GnhQWaYYXY=\""
+          "Value": "\"BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv+V0OqNVCr3E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 21:31:12 GMT"
+          "Value": "Mon, 02 Dec 2024 23:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6609,13 +6609,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AV1FUEx34VnzvR5FSKQGkwfMMi7g63T47GnhQWaYYXY="
+          "Value": "sha256-BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv+V0OqNVCr3E="
         }
       ]
     },
     {
       "Route": "assets/css/main.css.gz",
-      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-b15u6228an.gz",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-58myzkybw0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6624,7 +6624,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6489"
+          "Value": "6490"
         },
         {
           "Name": "Content-Type",
@@ -6632,11 +6632,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cp2AmasVO000zNkw/fOD6cH6shdQw3gdQCoYCvlW1CU=\""
+          "Value": "\"q9L+ocei02lajrXShAqU4MusImf2fYBe6e0esQ3Lgyc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 02 Dec 2024 21:31:12 GMT"
+          "Value": "Mon, 02 Dec 2024 23:07:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6654,7 +6654,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cp2AmasVO000zNkw/fOD6cH6shdQw3gdQCoYCvlW1CU="
+          "Value": "sha256-q9L+ocei02lajrXShAqU4MusImf2fYBe6e0esQ3Lgyc="
         }
       ]
     },
