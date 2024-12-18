@@ -18,6 +18,18 @@ public class HomeController : Controller
         return View();
     }
 
+     public IActionResult Support()
+    {
+        return View();
+    }
+     public IActionResult TermsAndCondition()
+    {
+        return View();
+    }
+     public IActionResult Cookie()
+    {
+        return View();
+    }
     public IActionResult Privacy()
     {
         return View();

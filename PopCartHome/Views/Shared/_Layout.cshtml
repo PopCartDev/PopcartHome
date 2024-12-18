@@ -8,8 +8,8 @@
   <meta name="keywords" content="">
 
   <!-- Favicons -->
-  <link href="~/assets/img/Popcart_Logo.png" rel="icon">
-  <link href="~/assets/img/Popcart_Logo.png" rel="apple-touch-icon">
+  <link href="~/assets/img/Popcart_Logo.png" style="height:100%" rel="icon">
+  <link href="~/assets/img/Popcart_Logo.png" style="height:100%" rel="apple-touch-icon">
 
   <!-- Fonts -->
   <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -38,11 +38,11 @@
 
       <nav id="navmenu" class="navmenu">
         <ul>
-          <li><a href="#hero" class="active">Get started</a></li>
-          <li><a href="#">Popcart Support</a></li>
-          <li><a href="#">Terms and Conditions</a></li>
-          <li><a href="#">Privacy Policy</a></li>
-          <li><a href="#">Cookie Policy</a></li>
+          <li><a href="@Url.Action("Index", "Home")">Get started</a></li>
+          <li><a href="@Url.Action("Support", "Home")">Popcart Support</a></li>
+          <li><a href="@Url.Action("TermsAndCondition", "Home")">Terms and Conditions</a></li>
+          <li><a href="@Url.Action("Privacy", "Home")">Privacy Policy</a></li>
+          <li><a href="@Url.Action("Cookie", "Home")">Cookie Policy</a></li>
          </ul>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
       </nav>

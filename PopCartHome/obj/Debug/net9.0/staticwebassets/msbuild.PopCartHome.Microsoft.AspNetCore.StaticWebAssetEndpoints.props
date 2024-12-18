@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/css/main.58myzkybw0.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\main.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"58myzkybw0"},{"Name":"integrity","Value":"sha256-BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv\u002BV0OqNVCr3E="},{"Name":"label","Value":"_content/PopCartHome/assets/css/main.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv\u002BV0OqNVCr3E=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 23:07:53 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/css/main.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\main.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv\u002BV0OqNVCr3E="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"37131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022BVg7xr5NqCIpqMwNd43j4qP8rqJ10rYv\u002BV0OqNVCr3E=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 23:07:53 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-B3Uwcy7O4yCV14/JLfUovxbIN0kI7cunHzVNuX7Ghfc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"36926"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022B3Uwcy7O4yCV14/JLfUovxbIN0kI7cunHzVNuX7Ghfc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 20:18:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/css/main.tjjctgaufh.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\css\main.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tjjctgaufh"},{"Name":"integrity","Value":"sha256-B3Uwcy7O4yCV14/JLfUovxbIN0kI7cunHzVNuX7Ghfc="},{"Name":"label","Value":"_content/PopCartHome/assets/css/main.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36926"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022B3Uwcy7O4yCV14/JLfUovxbIN0kI7cunHzVNuX7Ghfc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 03 Dec 2024 20:18:09 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/img/apple-touch-icon.aqslpqv1z9.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\apple-touch-icon.png'))</AssetFile>
