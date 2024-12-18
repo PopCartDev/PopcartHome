@@ -101,6 +101,14 @@
       "PackagePath": "staticwebassets/assets/img/play-store.svg"
     },
     {
+      "Id": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/popcart-logo.png",
+      "PackagePath": "staticwebassets/assets/img/popcart-logo.png"
+    },
+    {
+      "Id": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/popcart_logo.jpg",
+      "PackagePath": "staticwebassets/assets/img/popcart_logo.jpg"
+    },
+    {
       "Id": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/img/team/team-1.jpg",
       "PackagePath": "staticwebassets/assets/img/team/team-1.jpg"
     },

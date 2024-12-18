@@ -2917,6 +2917,170 @@
       ]
     },
     {
+      "Route": "assets/img/popcart-logo.png",
+      "AssetFile": "assets/img/popcart-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cyXZDFXme8VOvqltDfcZhrrHO+UrsKpxgA0PXESJAdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 01:35:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cyXZDFXme8VOvqltDfcZhrrHO+UrsKpxgA0PXESJAdM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/popcart-logo.z0l4e1bjoi.png",
+      "AssetFile": "assets/img/popcart-logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "119485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cyXZDFXme8VOvqltDfcZhrrHO+UrsKpxgA0PXESJAdM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 01:35:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z0l4e1bjoi"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cyXZDFXme8VOvqltDfcZhrrHO+UrsKpxgA0PXESJAdM="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/popcart-logo.png"
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/popcart_logo.ch4is62cuv.jpg",
+      "AssetFile": "assets/img/popcart_logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IQyhhTojMmHQEjHNcKCFqm0JqmPvKOajb4mM8Tm+f8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 01:23:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ch4is62cuv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IQyhhTojMmHQEjHNcKCFqm0JqmPvKOajb4mM8Tm+f8="
+        },
+        {
+          "Name": "label",
+          "Value": "assets/img/popcart_logo.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "assets/img/popcart_logo.jpg",
+      "AssetFile": "assets/img/popcart_logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "138370"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0IQyhhTojMmHQEjHNcKCFqm0JqmPvKOajb4mM8Tm+f8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 01:23:03 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0IQyhhTojMmHQEjHNcKCFqm0JqmPvKOajb4mM8Tm+f8="
+        }
+      ]
+    },
+    {
       "Route": "assets/img/team/team-1.jpg",
       "AssetFile": "assets/img/team/team-1.jpg",
       "Selectors": [],

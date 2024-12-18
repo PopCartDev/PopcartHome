@@ -276,11 +276,35 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-U15nkbB7zLMwsfnTcSNDQVcA\u002BDnOiVdJkJ87LHVDB/4="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9619"},{"Name":"Content-Type","Value":"image/svg\u002Bxml"},{"Name":"ETag","Value":"\u0022U15nkbB7zLMwsfnTcSNDQVcA\u002BDnOiVdJkJ87LHVDB/4=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 22:06:58 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/img/popcart-logo.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\popcart-logo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cyXZDFXme8VOvqltDfcZhrrHO\u002BUrsKpxgA0PXESJAdM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"119485"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cyXZDFXme8VOvqltDfcZhrrHO\u002BUrsKpxgA0PXESJAdM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 01:35:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/img/popcart-logo.z0l4e1bjoi.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\popcart-logo.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z0l4e1bjoi"},{"Name":"integrity","Value":"sha256-cyXZDFXme8VOvqltDfcZhrrHO\u002BUrsKpxgA0PXESJAdM="},{"Name":"label","Value":"_content/PopCartHome/assets/img/popcart-logo.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"119485"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022cyXZDFXme8VOvqltDfcZhrrHO\u002BUrsKpxgA0PXESJAdM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 01:35:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/img/Popcart_Logo.6mewr4btnd.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\Popcart_Logo.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6mewr4btnd"},{"Name":"integrity","Value":"sha256-/owjFD1cg90MfLOqpeXXqNS2CdMosrTJFnRMGXq4cMY="},{"Name":"label","Value":"_content/PopCartHome/assets/img/Popcart_Logo.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"65548"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/owjFD1cg90MfLOqpeXXqNS2CdMosrTJFnRMGXq4cMY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 18:51:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/img/popcart_logo.ch4is62cuv.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\popcart_logo.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ch4is62cuv"},{"Name":"integrity","Value":"sha256-0IQyhhTojMmHQEjHNcKCFqm0JqmPvKOajb4mM8Tm\u002Bf8="},{"Name":"label","Value":"_content/PopCartHome/assets/img/popcart_logo.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"138370"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00220IQyhhTojMmHQEjHNcKCFqm0JqmPvKOajb4mM8Tm\u002Bf8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 01:23:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/img/popcart_logo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\popcart_logo.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0IQyhhTojMmHQEjHNcKCFqm0JqmPvKOajb4mM8Tm\u002Bf8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"138370"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00220IQyhhTojMmHQEjHNcKCFqm0JqmPvKOajb4mM8Tm\u002Bf8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 18 Dec 2024 01:23:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/PopCartHome/assets/img/Popcart_Logo.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\Popcart_Logo.png'))</AssetFile>
