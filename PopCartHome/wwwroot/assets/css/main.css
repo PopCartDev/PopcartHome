@@ -727,7 +727,7 @@ h6 {
 --------------------------------------------------------------*/
 section,
 .section {
-  color: var(--default-color);
+  color: #ac9b8d;
   background-color: var(--background-color);
   padding: 60px 0;
   scroll-margin-top: 100px;
@@ -1710,9 +1710,9 @@ section,
   padding: 10px 15px;
   box-shadow: none;
   border-radius: 0;
-  color: var(--default-color);
+  color:white;
   background-color: color-mix(in srgb, var(--background-color), transparent 50%);
-  border-color: color-mix(in srgb, var(--default-color), transparent 80%);
+  border-color: white;
 }
 
 .contact .php-email-form input[type=text]:focus,

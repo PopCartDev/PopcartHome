@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0dUBci4tdBe+hihb+KyojiJ5uguNsud9EECb/aOvOQg=",
+  "Hash": "CDJT01RTT2ZuM3X7mgy6wnSmqFiSd9p+6Bri+xUobcE=",
   "Source": "PopCartHome",
   "BasePath": "_content/PopCartHome",
   "Mode": "Default",
@@ -668,12 +668,12 @@
       "OriginalItemSpec": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-tjjctgaufh.gz",
+      "Identity": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-7pq8xxlmq3.gz",
       "SourceId": "PopCartHome",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/PopCartHome",
-      "RelativePath": "assets/css/main#[.{fingerprint=tjjctgaufh}]?.css.gz",
+      "RelativePath": "assets/css/main#[.{fingerprint=7pq8xxlmq3}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -682,8 +682,8 @@
       "RelatedAsset": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/css/main.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "uqsnfdkavo",
-      "Integrity": "uos5NUaiEbOAJLlTTCiaugGuDuI2XiPIeYUwN7VuqLs=",
+      "Fingerprint": "yf5y9hqvd7",
+      "Integrity": "Dj3uxCLpP8Y7zIIZOgpfZVKPn6w4o9xZLM/mrurGiWo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/css/main.css"
@@ -2887,8 +2887,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tjjctgaufh",
-      "Integrity": "B3Uwcy7O4yCV14/JLfUovxbIN0kI7cunHzVNuX7Ghfc=",
+      "Fingerprint": "7pq8xxlmq3",
+      "Integrity": "1REhwV55Dh/r2/om7vAJ9dHHuuiajNHFfaQYBnodzmM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/css/main.css"
@@ -6361,13 +6361,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "assets/css/main.css",
-      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-tjjctgaufh.gz",
+      "Route": "assets/css/main.7pq8xxlmq3.css",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-7pq8xxlmq3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000154966682"
+          "Quality": "0.000154798762"
         }
       ],
       "ResponseHeaders": [
@@ -6377,19 +6377,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6452"
+          "Value": "6459"
         },
         {
           "Name": "ETag",
-          "Value": "\"uos5NUaiEbOAJLlTTCiaugGuDuI2XiPIeYUwN7VuqLs=\""
+          "Value": "\"Dj3uxCLpP8Y7zIIZOgpfZVKPn6w4o9xZLM/mrurGiWo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 20:18:09 GMT"
+          "Value": "Wed, 18 Dec 2024 01:13:18 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -6405,18 +6405,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"B3Uwcy7O4yCV14/JLfUovxbIN0kI7cunHzVNuX7Ghfc=\""
+          "Value": "W/\"1REhwV55Dh/r2/om7vAJ9dHHuuiajNHFfaQYBnodzmM=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "7pq8xxlmq3"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/css/main.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-B3Uwcy7O4yCV14/JLfUovxbIN0kI7cunHzVNuX7Ghfc="
+          "Value": "sha256-1REhwV55Dh/r2/om7vAJ9dHHuuiajNHFfaQYBnodzmM="
         }
       ]
     },
     {
-      "Route": "assets/css/main.css",
+      "Route": "assets/css/main.7pq8xxlmq3.css",
       "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/css/main.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -6426,7 +6434,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36926"
+          "Value": "36845"
         },
         {
           "Name": "Content-Type",
@@ -6434,121 +6442,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"B3Uwcy7O4yCV14/JLfUovxbIN0kI7cunHzVNuX7Ghfc=\""
+          "Value": "\"1REhwV55Dh/r2/om7vAJ9dHHuuiajNHFfaQYBnodzmM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 20:18:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-B3Uwcy7O4yCV14/JLfUovxbIN0kI7cunHzVNuX7Ghfc="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/main.css.gz",
-      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-tjjctgaufh.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6452"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uos5NUaiEbOAJLlTTCiaugGuDuI2XiPIeYUwN7VuqLs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 20:18:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-uos5NUaiEbOAJLlTTCiaugGuDuI2XiPIeYUwN7VuqLs="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/main.tjjctgaufh.css",
-      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-tjjctgaufh.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000154966682"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6452"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uos5NUaiEbOAJLlTTCiaugGuDuI2XiPIeYUwN7VuqLs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 20:18:09 GMT"
+          "Value": "Wed, 18 Dec 2024 01:13:18 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"B3Uwcy7O4yCV14/JLfUovxbIN0kI7cunHzVNuX7Ghfc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tjjctgaufh"
+          "Value": "7pq8xxlmq3"
         },
         {
           "Name": "label",
@@ -6556,13 +6464,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-B3Uwcy7O4yCV14/JLfUovxbIN0kI7cunHzVNuX7Ghfc="
+          "Value": "sha256-1REhwV55Dh/r2/om7vAJ9dHHuuiajNHFfaQYBnodzmM="
         }
       ]
     },
     {
-      "Route": "assets/css/main.tjjctgaufh.css",
-      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/css/main.css",
+      "Route": "assets/css/main.7pq8xxlmq3.css.gz",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-7pq8xxlmq3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6571,7 +6479,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "36926"
+          "Value": "6459"
         },
         {
           "Name": "Content-Type",
@@ -6579,56 +6487,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"B3Uwcy7O4yCV14/JLfUovxbIN0kI7cunHzVNuX7Ghfc=\""
+          "Value": "\"Dj3uxCLpP8Y7zIIZOgpfZVKPn6w4o9xZLM/mrurGiWo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 20:18:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tjjctgaufh"
-        },
-        {
-          "Name": "label",
-          "Value": "assets/css/main.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-B3Uwcy7O4yCV14/JLfUovxbIN0kI7cunHzVNuX7Ghfc="
-        }
-      ]
-    },
-    {
-      "Route": "assets/css/main.tjjctgaufh.css.gz",
-      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-tjjctgaufh.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "6452"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"uos5NUaiEbOAJLlTTCiaugGuDuI2XiPIeYUwN7VuqLs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 03 Dec 2024 20:18:09 GMT"
+          "Value": "Wed, 18 Dec 2024 01:13:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6646,7 +6509,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tjjctgaufh"
+          "Value": "7pq8xxlmq3"
         },
         {
           "Name": "label",
@@ -6654,7 +6517,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uos5NUaiEbOAJLlTTCiaugGuDuI2XiPIeYUwN7VuqLs="
+          "Value": "sha256-Dj3uxCLpP8Y7zIIZOgpfZVKPn6w4o9xZLM/mrurGiWo="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/main.css",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-7pq8xxlmq3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000154798762"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6459"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dj3uxCLpP8Y7zIIZOgpfZVKPn6w4o9xZLM/mrurGiWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 01:13:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1REhwV55Dh/r2/om7vAJ9dHHuuiajNHFfaQYBnodzmM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1REhwV55Dh/r2/om7vAJ9dHHuuiajNHFfaQYBnodzmM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/main.css",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/wwwroot/assets/css/main.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "36845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1REhwV55Dh/r2/om7vAJ9dHHuuiajNHFfaQYBnodzmM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 01:13:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1REhwV55Dh/r2/om7vAJ9dHHuuiajNHFfaQYBnodzmM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/css/main.css.gz",
+      "AssetFile": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/Debug/net9.0/compressed/8ioq1lwk65-7pq8xxlmq3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dj3uxCLpP8Y7zIIZOgpfZVKPn6w4o9xZLM/mrurGiWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 01:13:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dj3uxCLpP8Y7zIIZOgpfZVKPn6w4o9xZLM/mrurGiWo="
         }
       ]
     },
