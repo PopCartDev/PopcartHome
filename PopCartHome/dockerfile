@@ -1,0 +1,20 @@
+FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS base
+WORKDIR /app
+EXPOSE 80
+EXPOSE 443
+
+FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
+WORKDIR /src
+COPY ["PopCartHome/PopCartHome.csproj", "PopCartHome/"]
+RUN dotnet restore "PopCartHome/PopCartHome.csproj"
+COPY . .
+WORKDIR /src/PopcartSeller
+RUN dotnet build "PopCartHome.csproj" -c Release -o /app/build
+
+FROM build AS publish
+RUN dotnet publish "PopCartHome.csproj" -c Release -o /app/publish /p:UseAppHost=false
+
+FROM base AS final
+WORKDIR /app
+COPY --from=publish /app/publish .
+ENTRYPOINT ["dotnet", "PopCartHome.dll"]

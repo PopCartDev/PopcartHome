@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/PopCartHome.csproj": {}
+    "/Users/greykvng/Documents/PROJECTS/PopCart/PopCartHome/PopCartHome/PopCartHome.csproj": {}
   },
   "projects": {
-    "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/PopCartHome.csproj": {
+    "/Users/greykvng/Documents/PROJECTS/PopCart/PopCartHome/PopCartHome/PopCartHome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/PopCartHome.csproj",
+        "projectUniqueName": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCartHome/PopCartHome/PopCartHome.csproj",
         "projectName": "PopCartHome",
-        "projectPath": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/PopCartHome.csproj",
+        "projectPath": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCartHome/PopCartHome/PopCartHome.csproj",
         "packagesPath": "/Users/greykvng/.nuget/packages/",
-        "outputPath": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCart_LandingPage/PopCartHome/obj/",
+        "outputPath": "/Users/greykvng/Documents/PROJECTS/PopCart/PopCartHome/PopCartHome/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/greykvng/.nuget/NuGet/NuGet.Config"
