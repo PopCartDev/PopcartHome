@@ -8,7 +8,7 @@ WORKDIR /src
 COPY ["PopCartHome/PopCartHome.csproj", "PopCartHome/"]
 RUN dotnet restore "PopCartHome/PopCartHome.csproj"
 COPY . .
-WORKDIR /src/PopcartSeller
+WORKDIR /src/PopCartHome
 RUN dotnet build "PopCartHome.csproj" -c Release -o /app/build
 
 FROM build AS publish
